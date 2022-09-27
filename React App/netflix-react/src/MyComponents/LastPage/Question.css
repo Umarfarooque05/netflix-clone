@@ -1,0 +1,20 @@
+.main-question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    padding: 70px 45px;
+}
+
+.question {
+    list-style-type: none;
+}
+
+.list-question {
+    padding: 0.8em 2.2em 0.8em 1.2em;
+    color: #fff;
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
