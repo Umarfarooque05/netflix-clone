@@ -2,6 +2,7 @@ import React from 'react';
 import './Navbar.css';
 import { Button } from './Button';
 import logo from '../Images/Netflix-Brand-Logo.png';
+import "./Button.css";
 
 export const Navbar = () => {
   return (

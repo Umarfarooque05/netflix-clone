@@ -10,7 +10,7 @@ export const Firstpage = () => {
       <div className='content'>
         <Navbar/>
         <Content/>
-        <Searchbar/>
+        <Searchbar style={{paddingBottom:'padding-bottom: 168px'}}/>
       </div>
     </>
   )

@@ -1,7 +1,6 @@
 import React from 'react';
 import './Button.css';
 import './Content.css';
-
 export const Content = () => {
   return (
     <>

@@ -1,5 +1,6 @@
 .searchbar{
     display: flex;
+    padding-bottom: 168px;
     justify-content: center;
 }
 
@@ -7,6 +8,7 @@
     font-size: 16px;
     height: 60px;
     min-width: 450px;
+    padding-left: 10px;
 }
 
 .email-button {
@@ -14,7 +16,22 @@
     margin: 0;
     padding-top: 13px;
 }
-
+/* 
 .bottom-email{
     padding-bottom: 168px;
+} */
+
+.common-button {
+    background-color:#f40612 ;
+    color: #fff;
+    padding-left: 15px;
+    padding-right: 40px;
+    cursor: pointer;
 }
+
+/* 
+@media screen and (min-width: 480px) {
+    .common-button {
+        align-items: center;
+    }
+} */
